@@ -35,7 +35,7 @@ Experienced in front-end development, specializing in building responsive, user-
 
 ## 📫 Let's Connect
 
-- ✉️ **Email**: [romsyaintmad@gmail.com](mailto:romsyaintmad@gmail.com)  
+- ✉️ **Email**: [romsgolandrina.work@gmail.com](mailto:romsgolandrina.work@gmail.com)  
 - 🌐 **Portfolio**: [romsgolandrina-v2-vercel](https://romsgolandrina-v2.vercel.app/)
 - 🐙 **GitHub**: [@romsgolandrina](https://github.com/romsgolandrina)  
 - 💼 **LinkedIn**: [Jhon Rommel JR Golandrina](https://www.linkedin.com/in/jhon-rommel-golandrina/)
